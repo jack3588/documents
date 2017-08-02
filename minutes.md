@@ -3,7 +3,7 @@
 ## 成果報告
 ### 川森
 - ボタン配置
-　  - HelloとWouldをボタンで切り替える
+  - HelloとWouldをボタンで切り替える
 
 ### 齋藤
 - HelloWouldを無事出力
