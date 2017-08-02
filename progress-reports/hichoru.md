@@ -3,15 +3,20 @@
 # 今月の目標
 - `Fragment`を用いた実装を行う
 
-# やったこと
-- ボタンの作成(Activety1)
-  - IDをふって出力内容を分ける
-  - on/offのアクションを追加
-- Flagmentの実装(Activety2)
-  - Listの実装
-  - ボタンのvalue表示
-  - デバイスを横向きにした際のデザイン変更処理(作業中)
-  
+# やったと
+- Activety1
+  - ボタンの作成
+    - IDをふって出力内容を分ける
+    - on/offのアクションを追加
+  - レイアウトの作成
+    - 作成したボタンの配置
+- Activity2
+  - Flagmentの実装
+    - Listの実装
+    - ボタンのvalue表示
+    - デバイスを横向きにした際のデザイン変更処理(作業中)
+  - InterFaceの実装
+  
 # 気付き
 - `AndroidManifest.xml`でアプリ起動時に呼び出されるActivityなどを指定できる
 
